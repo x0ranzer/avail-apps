@@ -1,4 +1,4 @@
-name: Chain types
+name: Chain Types
 on:
   schedule:
     - cron:  '30 0/12 * * *'
